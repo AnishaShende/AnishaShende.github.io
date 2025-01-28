@@ -1,48 +1,60 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hi, I’m Anisha Shende! 👋
+# I’m Anisha Shende. 👋
 
-I’m a research enthusiast, AI developer, and Flutter expert passionate about solving real-world challenges through technology. With experience in Generative AI, Robotics, and Healthcare, I’ve built innovative projects and published academic work at the intersection of these domains.
+I am a passionate developer with a keen interest in creating beautiful and functional applications. I love to explore new technologies and implement creative solutions to solve real-world problems. 
 
 ---
 
 ### **Career Highlights**
-- **Flutter Lead** at GDG (Google Developers Group).  
-- Finalist at Dark Patterns Busters Hackathon 2023 (IIT-BHU).  
-- Creator of TinyLlama Chatbot, published in IJRESM.
+- Published Research Papers
+ * Authored multiple research papers in reputed journals, including a publication on "Optimal Joint Angles for Prosthetic Knee Design Using Gait Analysis" in an IGI Global publication.
+- Hackathon Successes
+  * Finalist in the Dark Patterns Busters Hackathon 2023, organized by the Ministry of Consumer Affairs and IIT-BHU.
+- Project Development
+  * Designed and deployed a cross-platform AI assistant using Flutter, integrated with state-of-the-art LLMs like Gemma2, Llama3, and Mixtral8 for enhanced capabilities.
+Community Contributions
+  * Organized workshops as the Flutter Lead for Google Developers Group and actively contributed to open-source projects, ranking among the top contributors in Winter of Code 3.0.
+- Patent Achievement
+  * Filed a patent for a hybrid wearable device for real-time gait analysis and prosthetic knee optimization.
+- Leadership Roles
+  * Spearheaded initiatives as a research assistant at Vishwakarma Institute of Information Technology and Flutter Lead for GDSC VIIT.
 
 ---
 
 ### **Research Interests**
-*My research focuses on creating innovative solutions in AI, Generative AI, and Healthcare to bridge technology and human needs.*
+*My research primarily revolves around Artificial Intelligence (AI), with a particular emphasis on Generative AI and Large Language Models (LLMs).*
 
 ---
 
 ### **Featured Projects**
-- **Voice-Activated Symptom Checker**: Advanced chatbot integrating AI and NLP.  
-- **AI-Driven Legal Research Engine**: Developed for Smart India Hackathon 2024.
 
----
+- **[AI-Powered Research Engine for Commercial Courts](https://github.com/AnishaShende/New-Nyaylay)**
+  * Designed for the Smart India Hackathon 2024 to expedite dispute resolution in commercial courts.  
+  * Integrated predictive analytics and multilingual support for customized legal research.
 
-### **Explore My Work**
-- [Publications](#)  
-- [Talks](#)  
-- [Portfolio](#)  
-- [Blog](#)  
-- [CV](#)
+- **[Prediction of Optimal Joint Angles for Prosthetic Knee Design](https://github.com/your-github-repo-link)** 
+  * Conducted research under the guidance of Dr. Shehal Rathi.  
+  * Evaluated machine learning models like **RNN**, **Bidirectional LSTM**, and **Random Forest**, achieving **95% accuracy** in predicting joint angles.  
+  * Research featured in the IGI Global publication, *“Modern Digital Approaches to Care Technologies for Individuals with Disabilities.”*
+
+- **[Cross-Platform AI Assistant](https://github.com/AnishaShende/Private-LLM)** 
+  * Developed a Flutter-based assistant compatible with desktop, Android, and web platforms.  
+  * Integrated **Gemma2**, **Llama3**, and **Mixtral8** LLMs with **Groq API** for faster inference.  
+  * Utilized **ChromaDB** for embeddings and implemented a **FastAPI** backend for efficient RAG-based data retrieval.
 
 ---
 
 ### **Connect with Me**
-- **Email**: anisha@example.com  
-- [LinkedIn](https://linkedin.com/in/anisha-shende)  
-- [GitHub](https://github.com/anisha-shende)  
+- **Email**: anishaashende@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/anishashende/)  
+- [GitHub](https://github.com/AnishaShende)  
 
-Looking for more? Visit my [Portfolio Website](https://yourportfolio.com)! 🌟
+Looking for more? Visit my [Portfolio Website](https://white-coast-07f031310.4.azurestaticapps.net/)! 🌟
