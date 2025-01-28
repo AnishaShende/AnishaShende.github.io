@@ -129,6 +129,9 @@
 }
 
 .sidebar .author__desktop {
+  white-space: normal; /* Allow text to wrap */
+  word-wrap: break-word; /* Break long words if necessary */
+  line-height: 1.2;
   display: none;
   @media screen and (min-width: 1024px) {
     display: block;
