@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Publications
 ======
 
 * **“TinyLlama Chatbot for VIIT College”**
