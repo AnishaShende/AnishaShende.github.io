@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-======
 
 * **“TinyLlama Chatbot for VIIT College”**
   * Fine-tuned TinyLlama with 4-bit quantization and implemented RAG architecture for enhanced, up-to-date knowledge.
