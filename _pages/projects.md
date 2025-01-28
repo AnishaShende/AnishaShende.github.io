@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Projects
+
 ======
 
 * **AI-Driven Legal Research Engine for Courts**
