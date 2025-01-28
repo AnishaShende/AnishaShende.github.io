@@ -28,7 +28,7 @@ author:
   location         : "India"
   employer         : "Vishwakarma Institute of \n Information Technology"
   uri              : "https://white-coast-07f031310.4.azurestaticapps.net/"
-  email            : "anishaashende@gmail.com"
+  # email            : "anishaashende@gmail.com"
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
