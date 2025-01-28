@@ -14,19 +14,11 @@ I am a passionate developer with a keen interest in creating beautiful and funct
 ---
 
 ### **Career Highlights**
-- Published Research Papers
- * Authored multiple research papers in reputed journals, including a publication on "Optimal Joint Angles for Prosthetic Knee Design Using Gait Analysis" in an IGI Global publication.
-- Hackathon Successes
-  * Finalist in the Dark Patterns Busters Hackathon 2023, organized by the Ministry of Consumer Affairs and IIT-BHU.
-- Project Development
-  * Designed and deployed a cross-platform AI assistant using Flutter, integrated with state-of-the-art LLMs like Gemma2, Llama3, and Mixtral8 for enhanced capabilities.
-Community Contributions
-  * Organized workshops as the Flutter Lead for Google Developers Group and actively contributed to open-source projects, ranking among the top contributors in Winter of Code 3.0.
-- Patent Achievement
-  * Filed a patent for a hybrid wearable device for real-time gait analysis and prosthetic knee optimization.
-- Leadership Roles
-  * Spearheaded initiatives as a research assistant at Vishwakarma Institute of Information Technology and Flutter Lead for GDSC VIIT.
-
+- Published Research Papers in reputed journals, including a publication on "Optimal Joint Angles for Prosthetic Knee Design Using Gait Analysis" in an IGI Global publication.
+- Finalist in the Dark Patterns Busters Hackathon 2023, organized by the Ministry of Consumer Affairs and IIT-BHU.
+- Designed and deployed a cross-platform AI assistant using Flutter, integrated with state-of-the-art LLMs like Gemma2, Llama3, and Mixtral8 for enhanced capabilities.
+- Organized workshops as the Flutter Lead for Google Developers Group and actively contributed to open-source projects, ranking among the top contributors in Winter of Code 3.0.
+- Filed a patent for a hybrid wearable device for real-time gait analysis and prosthetic knee optimization.
 ---
 
 ### **Research Interests**
