@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-======
 
 * **AI-Driven Legal Research Engine for Courts**
   * **Backend Development:** Built a robust backend using FastAPI to enable efficient API handling.
