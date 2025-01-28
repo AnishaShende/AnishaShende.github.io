@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Tech. in Computer Engineering, Vishwakarma Institute of Information Technology, 2026 (expected)
+* Diploma in Computer Engineering, Government Polytechnic, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* VIIT 2024: Research Assistant
+  * Vishwakarma Institute of Information Technology
+  * Conducted research on the project "Prediction of Optimal Joint Angles for Prosthetic Knee Design Using Gait Analysis" under the guidance of Dr. Snehal Rathi.
+  * Evaluated machine learning models, including RNN, Bidirectional LSTM, and Random Forest, achieving 95% accuracy in predicting joint angles, contributing to advancements in prosthetic technology.
+  * Research published in IGI Global's "Modern Digital Approaches to Care Technologies for Individuals with Disabilities".
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Aerovania 2023: Flutter Developer Intern
+  * Aerovania
+  * Developed the Aerovania Flutter app with an intuitive and seamless UI, integrating Riverpod for efficient state management.
+  * Optimized loading times by 30% and integrated Firebase, enabling support for over 1K monthly transactions.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Programming Languages**:  
+  - C++, Java, Python, C, JavaScript, Dart  
+- **Core Technical Expertise**:  
+  - Artificial Intelligence, Machine Learning, Generative AI, Large Language Models (LLM)  
+- **Frameworks & Tools**:  
+  - Flutter, FastAPI, LangChain, Postman  
+- **Database & Backend**:  
+  - Firebase, MongoDB, ChromaDB, SQL  
+- **DevOps & Cloud**:  
+  - Docker, Azure, GCP (Cloud Services)  
+- **Frontend Development**:  
+  - HTML, CSS, Figma  
+- **Version Control**:  
+  - Git, GitHub  
+- **Other Skills**:  
+  - Data Structures and Algorithms, System Design, Interpersonal Communication  
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **"TinyLlama Chatbot for VIIT College"**  
+  Fine-tuned TinyLlama with 4-bit quantization and implemented RAG architecture for enhanced, up-to-date knowledge. Used Baai embeddings model for generating embeddings.  
+  *Published in IJRESM.*
+
+- **"Prediction of Optimal Joint Angles for Prosthetic Knee Design Using Gait Analysis"**  
+  Conducted under the guidance of Dr. Shehal Rathi. Evaluated RNN, Bidirectional LSTM, and Random Forest models to predict joint angles with 95% accuracy, contributing to advancements in prosthetic design.  
+  *Featured in IGI Global publication "Modern Digital Approaches to Care Technologies for Individuals with Disabilities".*
+
