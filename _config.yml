@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Anisha Shende"
 description              : &description "Hi! I'm **Anisha**, a passionate developer with expertise in AI and Flutter development. Explore my projects, achievements, and skills here!"
 url                      : https://anishashende.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+# baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AnishaShende/AnishaShende.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0002-7873-6846"
+  # orcid            : "https://orcid.org/0009-0002-7873-6846"
   # semantic         : # URL
   # pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
@@ -49,7 +49,7 @@ author:
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   # facebook         : # Username
   # flickr           : # Username
   # foursquare       : # Username
@@ -61,12 +61,12 @@ author:
   linkedin         : "anishashende"
   # mastodon         : # URL
   # medium           : # URL
-  pinterest        : "anishashende369"
   # soundcloud       : # Username
   # steam            : # Username
   # telegram         : # URL
   # tumblr           : # Username
   twitter          : "Anisha_Shende"
+  pinterest        : "anishashende369"
   # vine             : # Username
   # weibo            : # Username
   # wikipedia        : # Username
