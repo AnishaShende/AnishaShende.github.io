@@ -20,6 +20,10 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+    
+  - title: "Achievements"
+    url: /achievements/
+
   - title: "CV"
     url: /cv/
     
