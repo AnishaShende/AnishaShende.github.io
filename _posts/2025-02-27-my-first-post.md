@@ -1,7 +1,6 @@
 ---
 title: 'Explainability in Generative AI: A Comprehensive Guide'
 date: 2025-02-29
-permalink: https://anishashende.medium.com/explainability-in-generative-ai-a-comprehensive-guide-by-anishashende-03a7cc711f4d?source=friends_link&sk=b615343cf06c6689d982e07bb064a6b4
 tags:
   - Explainability
   - Generative artificial intelligence
