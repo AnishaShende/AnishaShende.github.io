@@ -19,6 +19,8 @@ I am a passionate developer with a keen interest in creating beautiful and funct
 - Designed and deployed a cross-platform AI assistant using Flutter, integrated with state-of-the-art LLMs like Gemma2, Llama3, and Mixtral8 for enhanced capabilities. 
 - Filed a patent for a hybrid wearable device for real-time gait analysis and prosthetic knee optimization.
 - Organized workshops as the Flutter Lead for Google Developers Group and actively contributed to open-source projects, ranking among the top contributors in Winter of Code 3.0
+
+
 ---
 
 ### **Research Interests**
@@ -47,6 +49,7 @@ I am a passionate developer with a keen interest in creating beautiful and funct
 ### **Connect with Me**
 - **Email**: anishaashende@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/anishashende/)  
-- [GitHub](https://github.com/AnishaShende)  
+- [GitHub](https://github.com/AnishaShende)
+- [Medium](anishashende.medium.com)
 
-Looking for more? Visit my [Portfolio Website](https://white-coast-07f031310.4.azurestaticapps.net/)! 🌟
+Looking for more? Visit my [Portfolio Website](https://anishashende.me/)! 🌟
